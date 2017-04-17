@@ -4,7 +4,7 @@
 
 #pragma mark - Constants
 
-NSString * const FDKeychainErrorDomain = @"com.gpsinsights.keychain";;
+NSString * const FDKeychainErrorDomain = @"com.gpsinsight.keychain";;
 
 
 #pragma mark - Class Definition
